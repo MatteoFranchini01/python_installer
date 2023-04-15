@@ -51,7 +51,6 @@ int main() {
             }
         }
     }
-//ciao
     // Eseguo il file python
     system_return_value = system("python3 prova.py");
     return 0;
